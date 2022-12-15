@@ -1,0 +1,162 @@
+--- 
+files: 
+  certificate: 
+    e_garkum_sasambo_com_b50b3_e09c1_1672735625_26c41891fcca3fcaf933846c20572ad6: 
+      created: '1641199625'
+      domains: 
+        - e-garkum-sasambo.com
+        - mail.e-garkum-sasambo.com
+        - www.e-garkum-sasambo.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “e-garkum-sasambo.com”
+      id: e_garkum_sasambo_com_b50b3_e09c1_1672735625_26c41891fcca3fcaf933846c20572ad6
+      is_self_signed: 1
+      issuer.commonName: e-garkum-sasambo.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: b50b3bca4c1f56b0035ca08193376cbff5b80ba40bce4ca68c28fadb633692633bbae0f8f2cb516655cb9d96f0d08da4355e6f6f2d4542f3112d77a237bc282aa945f99e1da8532dfb68809b27460287841401c896dbe003c95175705adb8b5c07df1fd048e77bbd9c502167be26068e6a356168032bfbc862c99bedc99ef0cab417f0655e92562b915bd493c7d4908533dd7a40d8f49b1cd01bbcdcd6c25a3d0f457fb668b7436091f06ba34b051b399536be35d65477fac41e811c0221a4e94b88d36cb3e74e2bf7ee7d6563fa7232a6c5634084960647a2ce9b0a085f631d7f6c2098445a16634b454cd76e55d9119fb0d8a36a98bf8b80f42cee270e09c1
+      modulus_length: 2048
+      not_after: '1672735625'
+      not_before: '1641199625'
+      serial: 95ea9523
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: e-garkum-sasambo.com
+      validation_type: ~
+    e_garkum_sasambo_com_c0305_41083_1669689729_4e51ad84a530be1d0954ac6b36337108: 
+      created: '1661917329'
+      domains: 
+        - "*.e-garkum-sasambo.com"
+        - e-garkum-sasambo.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “e-garkum-sasambo.com” 1661917329.0
+      id: e_garkum_sasambo_com_c0305_41083_1669689729_4e51ad84a530be1d0954ac6b36337108
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c03052dee3f305a05bebda30abb10908d928393767cb17ff44f299828f5e31f722cef447356fd42f585f70c9a372552b345fcf3d73d8a6b78970e9d7788235216df222d66d6c14bfa9785e0a3db7a7771649ec2a2f8de61130645238af549841cbb3b610828dcb38d370500ba4732d009770c6faaaa234860c3dee761e03f879cf15f26eb68fd982439d4bd192ff07907e2ce2bd6e3b822aa38e5f0ab2627b1e9592066e5ce242688823f2854dcc7bfee71abae71c84a0753816d09657aa2baa2816de8beca17cf0df0473492110dbc295dc8cc782c9ae7bce7c170bd9814e03b1efd565347039a4a1a4b02ddfcd750b8058923e329d5c67ad7ff2b268041083
+      modulus_length: 2048
+      not_after: '1669689729'
+      not_before: '1661913730'
+      serial: 03b36b9e386f6e6c1bf5fb18014292a821b4
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: e-garkum-sasambo.com
+      validation_type: dv
+    e_garkum_sasambo_com_c8b78_33ec3_1655596799_c93792851f0eb425f0320d559ec23f24: 
+      created: '1647805046'
+      domains: 
+        - e-garkum-sasambo.com
+        - mail.e-garkum-sasambo.com
+        - www.e-garkum-sasambo.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “e-garkum-sasambo.com” 1647805046.0
+      id: e_garkum_sasambo_com_c8b78_33ec3_1655596799_c93792851f0eb425f0320d559ec23f24
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: c8b785c39aa7d3b0cf16e141d3b0ccf10d404040b557fed60b92e7caee91fa6d22ac6e437cd4386678ff40dbf97bd5b323866671d90f6f34f104939bde2d2d0f9d9edfdb8ffc04f3fd6802fc31d80df8d7dc0bb1e63825580f1e8708687df27b97bee52e40edcb06a7adac33dcdd646aa7ed1f3b9258874d296249602fd12994a0242840bcff0f71b9a2d2639df6a533484f4f55647625bc6c6dbe30a2b540b719c497b577c4b0d540c0fc98dbf9e608649a68e037d5accfab010a2f5b854447cc22db443210bf0c0b29968c0e4e3f43bbf27269955779cdfc7ef07c890171f30acb10a4221e522eb981dc956050941b9ddcb15ffe01b8bb681e4f390d933ec3
+      modulus_length: 2048
+      not_after: '1655596799'
+      not_before: '1647734400'
+      serial: c6b3f500afe7af4a66848ef4b470122d
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: e-garkum-sasambo.com
+      validation_type: dv
+    e_garkum_sasambo_com_cdf79_22cd3_1662249599_ba9540df688614dce7e4a141c82209cc: 
+      created: '1654465862'
+      domains: 
+        - e-garkum-sasambo.com
+        - mail.e-garkum-sasambo.com
+        - www.e-garkum-sasambo.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “e-garkum-sasambo.com” 1654465862.0
+      id: e_garkum_sasambo_com_cdf79_22cd3_1662249599_ba9540df688614dce7e4a141c82209cc
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: cdf79811974bb960f478bd6a285c4af4b6c70b96f74869b4e1295944b024d46594453f52f0d453a725cb03b9ab5f9f142140dd050bbd3bb39caabf5cd005933f563336af959e25c441c8d8aa86972a3f77d57460d35c467c12c3c0c0bed03c57c2e4cd9fedd56cf5b2fabffd7661cecdc3d8aa4d88ab82b8ae5d930c945556be51df6bda3bde58edc8b97ca17638ea80155ea2dfaf0cce057f2f3de8fe1a1efda2574dae27a25ac80ebde069b05608ff3c6c1a54846c8519e09116cfe92916ff11ece9bb934bc26fe4279560281a25436708e0b07fa5c93229ce7e031649c79c920adae1eb6e24d39142bf79f31f7043d264af6a14687ffae7a9f6789bd22cd3
+      modulus_length: 2048
+      not_after: '1662249599'
+      not_before: '1654387200'
+      serial: 9ddc6684fa5fd571b35b7ed17579bd9e
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: e-garkum-sasambo.com
+      validation_type: dv
+  key: 
+    b50b3_e09c1_5817eded0bb42d4ebfae6dabbf600fb9: 
+      created: '1641199625'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “e-garkum-sasambo.com”
+      id: b50b3_e09c1_5817eded0bb42d4ebfae6dabbf600fb9
+      key_algorithm: rsaEncryption
+      modulus: b50b3bca4c1f56b0035ca08193376cbff5b80ba40bce4ca68c28fadb633692633bbae0f8f2cb516655cb9d96f0d08da4355e6f6f2d4542f3112d77a237bc282aa945f99e1da8532dfb68809b27460287841401c896dbe003c95175705adb8b5c07df1fd048e77bbd9c502167be26068e6a356168032bfbc862c99bedc99ef0cab417f0655e92562b915bd493c7d4908533dd7a40d8f49b1cd01bbcdcd6c25a3d0f457fb668b7436091f06ba34b051b399536be35d65477fac41e811c0221a4e94b88d36cb3e74e2bf7ee7d6563fa7232a6c5634084960647a2ce9b0a085f631d7f6c2098445a16634b454cd76e55d9119fb0d8a36a98bf8b80f42cee270e09c1
+      modulus_length: 2048
+    c0305_41083_6097aa611cf3942b1d7ff2615130314a: 
+      created: '1661917329'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “e-garkum-sasambo.com” 1661917329.0
+      id: c0305_41083_6097aa611cf3942b1d7ff2615130314a
+      key_algorithm: rsaEncryption
+      modulus: c03052dee3f305a05bebda30abb10908d928393767cb17ff44f299828f5e31f722cef447356fd42f585f70c9a372552b345fcf3d73d8a6b78970e9d7788235216df222d66d6c14bfa9785e0a3db7a7771649ec2a2f8de61130645238af549841cbb3b610828dcb38d370500ba4732d009770c6faaaa234860c3dee761e03f879cf15f26eb68fd982439d4bd192ff07907e2ce2bd6e3b822aa38e5f0ab2627b1e9592066e5ce242688823f2854dcc7bfee71abae71c84a0753816d09657aa2baa2816de8beca17cf0df0473492110dbc295dc8cc782c9ae7bce7c170bd9814e03b1efd565347039a4a1a4b02ddfcd750b8058923e329d5c67ad7ff2b268041083
+      modulus_length: 2048
+    c8b78_33ec3_83a13433c295efa55608085a4798e5f5: 
+      created: '1647805046'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “e-garkum-sasambo.com” 1647805046.0
+      id: c8b78_33ec3_83a13433c295efa55608085a4798e5f5
+      key_algorithm: rsaEncryption
+      modulus: c8b785c39aa7d3b0cf16e141d3b0ccf10d404040b557fed60b92e7caee91fa6d22ac6e437cd4386678ff40dbf97bd5b323866671d90f6f34f104939bde2d2d0f9d9edfdb8ffc04f3fd6802fc31d80df8d7dc0bb1e63825580f1e8708687df27b97bee52e40edcb06a7adac33dcdd646aa7ed1f3b9258874d296249602fd12994a0242840bcff0f71b9a2d2639df6a533484f4f55647625bc6c6dbe30a2b540b719c497b577c4b0d540c0fc98dbf9e608649a68e037d5accfab010a2f5b854447cc22db443210bf0c0b29968c0e4e3f43bbf27269955779cdfc7ef07c890171f30acb10a4221e522eb981dc956050941b9ddcb15ffe01b8bb681e4f390d933ec3
+      modulus_length: 2048
+    cdf79_22cd3_6c46d817859d094ceca59bf6aa55a8ca: 
+      created: '1654465862'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “e-garkum-sasambo.com” 1654465862.0
+      id: cdf79_22cd3_6c46d817859d094ceca59bf6aa55a8ca
+      key_algorithm: rsaEncryption
+      modulus: cdf79811974bb960f478bd6a285c4af4b6c70b96f74869b4e1295944b024d46594453f52f0d453a725cb03b9ab5f9f142140dd050bbd3bb39caabf5cd005933f563336af959e25c441c8d8aa86972a3f77d57460d35c467c12c3c0c0bed03c57c2e4cd9fedd56cf5b2fabffd7661cecdc3d8aa4d88ab82b8ae5d930c945556be51df6bda3bde58edc8b97ca17638ea80155ea2dfaf0cce057f2f3de8fe1a1efda2574dae27a25ac80ebde069b05608ff3c6c1a54846c8519e09116cfe92916ff11ece9bb934bc26fe4279560281a25436708e0b07fa5c93229ce7e031649c79c920adae1eb6e24d39142bf79f31f7043d264af6a14687ffae7a9f6789bd22cd3
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b50b3bca4c1f56b0035ca08193376cbff5b80ba40bce4ca68c28fadb633692633bbae0f8f2cb516655cb9d96f0d08da4355e6f6f2d4542f3112d77a237bc282aa945f99e1da8532dfb68809b27460287841401c896dbe003c95175705adb8b5c07df1fd048e77bbd9c502167be26068e6a356168032bfbc862c99bedc99ef0cab417f0655e92562b915bd493c7d4908533dd7a40d8f49b1cd01bbcdcd6c25a3d0f457fb668b7436091f06ba34b051b399536be35d65477fac41e811c0221a4e94b88d36cb3e74e2bf7ee7d6563fa7232a6c5634084960647a2ce9b0a085f631d7f6c2098445a16634b454cd76e55d9119fb0d8a36a98bf8b80f42cee270e09c1: 
+        e_garkum_sasambo_com_b50b3_e09c1_1672735625_26c41891fcca3fcaf933846c20572ad6: ~
+      c03052dee3f305a05bebda30abb10908d928393767cb17ff44f299828f5e31f722cef447356fd42f585f70c9a372552b345fcf3d73d8a6b78970e9d7788235216df222d66d6c14bfa9785e0a3db7a7771649ec2a2f8de61130645238af549841cbb3b610828dcb38d370500ba4732d009770c6faaaa234860c3dee761e03f879cf15f26eb68fd982439d4bd192ff07907e2ce2bd6e3b822aa38e5f0ab2627b1e9592066e5ce242688823f2854dcc7bfee71abae71c84a0753816d09657aa2baa2816de8beca17cf0df0473492110dbc295dc8cc782c9ae7bce7c170bd9814e03b1efd565347039a4a1a4b02ddfcd750b8058923e329d5c67ad7ff2b268041083: 
+        e_garkum_sasambo_com_c0305_41083_1669689729_4e51ad84a530be1d0954ac6b36337108: ~
+      c8b785c39aa7d3b0cf16e141d3b0ccf10d404040b557fed60b92e7caee91fa6d22ac6e437cd4386678ff40dbf97bd5b323866671d90f6f34f104939bde2d2d0f9d9edfdb8ffc04f3fd6802fc31d80df8d7dc0bb1e63825580f1e8708687df27b97bee52e40edcb06a7adac33dcdd646aa7ed1f3b9258874d296249602fd12994a0242840bcff0f71b9a2d2639df6a533484f4f55647625bc6c6dbe30a2b540b719c497b577c4b0d540c0fc98dbf9e608649a68e037d5accfab010a2f5b854447cc22db443210bf0c0b29968c0e4e3f43bbf27269955779cdfc7ef07c890171f30acb10a4221e522eb981dc956050941b9ddcb15ffe01b8bb681e4f390d933ec3: 
+        e_garkum_sasambo_com_c8b78_33ec3_1655596799_c93792851f0eb425f0320d559ec23f24: ~
+      cdf79811974bb960f478bd6a285c4af4b6c70b96f74869b4e1295944b024d46594453f52f0d453a725cb03b9ab5f9f142140dd050bbd3bb39caabf5cd005933f563336af959e25c441c8d8aa86972a3f77d57460d35c467c12c3c0c0bed03c57c2e4cd9fedd56cf5b2fabffd7661cecdc3d8aa4d88ab82b8ae5d930c945556be51df6bda3bde58edc8b97ca17638ea80155ea2dfaf0cce057f2f3de8fe1a1efda2574dae27a25ac80ebde069b05608ff3c6c1a54846c8519e09116cfe92916ff11ece9bb934bc26fe4279560281a25436708e0b07fa5c93229ce7e031649c79c920adae1eb6e24d39142bf79f31f7043d264af6a14687ffae7a9f6789bd22cd3: 
+        e_garkum_sasambo_com_cdf79_22cd3_1662249599_ba9540df688614dce7e4a141c82209cc: ~
+    subject.commonName: 
+      e-garkum-sasambo.com: 
+        e_garkum_sasambo_com_b50b3_e09c1_1672735625_26c41891fcca3fcaf933846c20572ad6: ~
+        e_garkum_sasambo_com_c0305_41083_1669689729_4e51ad84a530be1d0954ac6b36337108: ~
+        e_garkum_sasambo_com_c8b78_33ec3_1655596799_c93792851f0eb425f0320d559ec23f24: ~
+        e_garkum_sasambo_com_cdf79_22cd3_1662249599_ba9540df688614dce7e4a141c82209cc: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “e-garkum-sasambo.com”: e_garkum_sasambo_com_b50b3_e09c1_1672735625_26c41891fcca3fcaf933846c20572ad6
+      Cert for “e-garkum-sasambo.com” 1647805046.0: e_garkum_sasambo_com_c8b78_33ec3_1655596799_c93792851f0eb425f0320d559ec23f24
+      Cert for “e-garkum-sasambo.com” 1654465862.0: e_garkum_sasambo_com_cdf79_22cd3_1662249599_ba9540df688614dce7e4a141c82209cc
+      Cert for “e-garkum-sasambo.com” 1661917329.0: e_garkum_sasambo_com_c0305_41083_1669689729_4e51ad84a530be1d0954ac6b36337108
+  key: 
+    friendly_name: 
+      Key for “e-garkum-sasambo.com”: b50b3_e09c1_5817eded0bb42d4ebfae6dabbf600fb9
+      Key for “e-garkum-sasambo.com” 1647805046.0: c8b78_33ec3_83a13433c295efa55608085a4798e5f5
+      Key for “e-garkum-sasambo.com” 1654465862.0: cdf79_22cd3_6c46d817859d094ceca59bf6aa55a8ca
+      Key for “e-garkum-sasambo.com” 1661917329.0: c0305_41083_6097aa611cf3942b1d7ff2615130314a
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      b50b3bca4c1f56b0035ca08193376cbff5b80ba40bce4ca68c28fadb633692633bbae0f8f2cb516655cb9d96f0d08da4355e6f6f2d4542f3112d77a237bc282aa945f99e1da8532dfb68809b27460287841401c896dbe003c95175705adb8b5c07df1fd048e77bbd9c502167be26068e6a356168032bfbc862c99bedc99ef0cab417f0655e92562b915bd493c7d4908533dd7a40d8f49b1cd01bbcdcd6c25a3d0f457fb668b7436091f06ba34b051b399536be35d65477fac41e811c0221a4e94b88d36cb3e74e2bf7ee7d6563fa7232a6c5634084960647a2ce9b0a085f631d7f6c2098445a16634b454cd76e55d9119fb0d8a36a98bf8b80f42cee270e09c1: b50b3_e09c1_5817eded0bb42d4ebfae6dabbf600fb9
+      c03052dee3f305a05bebda30abb10908d928393767cb17ff44f299828f5e31f722cef447356fd42f585f70c9a372552b345fcf3d73d8a6b78970e9d7788235216df222d66d6c14bfa9785e0a3db7a7771649ec2a2f8de61130645238af549841cbb3b610828dcb38d370500ba4732d009770c6faaaa234860c3dee761e03f879cf15f26eb68fd982439d4bd192ff07907e2ce2bd6e3b822aa38e5f0ab2627b1e9592066e5ce242688823f2854dcc7bfee71abae71c84a0753816d09657aa2baa2816de8beca17cf0df0473492110dbc295dc8cc782c9ae7bce7c170bd9814e03b1efd565347039a4a1a4b02ddfcd750b8058923e329d5c67ad7ff2b268041083: c0305_41083_6097aa611cf3942b1d7ff2615130314a
+      c8b785c39aa7d3b0cf16e141d3b0ccf10d404040b557fed60b92e7caee91fa6d22ac6e437cd4386678ff40dbf97bd5b323866671d90f6f34f104939bde2d2d0f9d9edfdb8ffc04f3fd6802fc31d80df8d7dc0bb1e63825580f1e8708687df27b97bee52e40edcb06a7adac33dcdd646aa7ed1f3b9258874d296249602fd12994a0242840bcff0f71b9a2d2639df6a533484f4f55647625bc6c6dbe30a2b540b719c497b577c4b0d540c0fc98dbf9e608649a68e037d5accfab010a2f5b854447cc22db443210bf0c0b29968c0e4e3f43bbf27269955779cdfc7ef07c890171f30acb10a4221e522eb981dc956050941b9ddcb15ffe01b8bb681e4f390d933ec3: c8b78_33ec3_83a13433c295efa55608085a4798e5f5
+      cdf79811974bb960f478bd6a285c4af4b6c70b96f74869b4e1295944b024d46594453f52f0d453a725cb03b9ab5f9f142140dd050bbd3bb39caabf5cd005933f563336af959e25c441c8d8aa86972a3f77d57460d35c467c12c3c0c0bed03c57c2e4cd9fedd56cf5b2fabffd7661cecdc3d8aa4d88ab82b8ae5d930c945556be51df6bda3bde58edc8b97ca17638ea80155ea2dfaf0cce057f2f3de8fe1a1efda2574dae27a25ac80ebde069b05608ff3c6c1a54846c8519e09116cfe92916ff11ece9bb934bc26fe4279560281a25436708e0b07fa5c93229ce7e031649c79c920adae1eb6e24d39142bf79f31f7043d264af6a14687ffae7a9f6789bd22cd3: cdf79_22cd3_6c46d817859d094ceca59bf6aa55a8ca

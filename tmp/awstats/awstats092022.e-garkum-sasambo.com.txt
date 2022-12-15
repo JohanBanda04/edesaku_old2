@@ -1,0 +1,593 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202209 will be lost/reset.
+# Last config file used to build this data file was /home/egarkums/tmp/awstats/awstats.e-garkum-sasambo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2696                
+POS_VISITOR 8851                
+POS_DAY 12425               
+POS_DOMAIN 3556                
+POS_LOGIN 3969                
+POS_ROBOT 4124                
+POS_WORMS 4667                
+POS_EMAILSENDER 4798                
+POS_EMAILRECEIVER 4941                
+POS_SESSION 12957               
+POS_SIDER 13142               
+POS_FILETYPES 5076                
+POS_DOWNLOADS 5238                
+POS_OS 5286                
+POS_BROWSER 5583                
+POS_SCREENSIZE 6584                
+POS_UNKNOWNREFERER 6658                
+POS_UNKNOWNREFERERBROWSER 7044                
+POS_ORIGIN 7193                
+POS_SEREFERRALS 7331                
+POS_PAGEREFS 7511                
+POS_SEARCHWORDS 7659                
+POS_KEYWORDS 7811                
+POS_MISC 2359                
+POS_ERRORS 7870                
+POS_CLUSTER 3825                
+POS_SIDER_404 8028                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220922185921 88 18111 9997489475513
+FirstTime 20220901082218
+LastTime 20220922184951
+LastUpdate 20220922203730 88 0 88 0 0
+TotalVisits 101                 
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 90                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 18 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 51470 171 192 10778669
+1 2 2 46018 182 189 13832910
+2 4 8 30021 134 146 9646313
+3 1 1 5451 114 132 7998296
+4 1 1 5452 212 214 17914063
+5 4 4 38725 132 140 5208787
+6 18 27 856788 177 180 11651566
+7 47 56 974152 140 148 17394630
+8 84 84 19044288 276 282 28824872
+9 35 53 1652605 200 203 13828999
+10 19 27 843598 154 164 5714112
+11 6 9 73135 185 199 11843576
+12 6 8 532623 150 166 11759351
+13 16 30 3029656 146 159 11839526
+14 4 4 74476 200 207 14139267
+15 3 3 69027 195 209 4774580
+16 5 5 79933 189 201 12097756
+17 4 4 39372 167 170 12800581
+18 2 2 46018 167 181 13889041
+19 3 11 757302 166 169 10170373
+20 10 11 91278 156 181 8864657
+21 11 11 136934 195 206 9993320
+22 3 3 33909 161 165 8533534
+23 27 41 2238154 168 176 5750020
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+in 115 136 20552541
+us 106 131 5502196
+id 70 105 3292716
+ru 10 11 496003
+cn 7 8 56772
+se 3 3 16360
+ca 1 8 726052
+gb 1 1 23009
+nl 1 1 23009
+it 1 1 5448
+fr 1 1 5451
+tr 1 1 4810
+my 1 1 23009
+cl 1 1 23009
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+AhrefsBot/ 1100 115104252 20220922085531 30
+bingbot/ 690 150789281 20220922185921 28
+Googlebot/ 56 161817 20220922081328 14
+Go\-http\-client/ 14 35005 20220915204036 0
+unknown 9 216 20220921055135 9
+bot[\s_+:,\.\;\/\\-] 9 216 20220921225808 9
+Googlebot\-Image/ 6 13340 20220916035943 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 23009 20220919212613 0
+no_user_agent 1 7506 20220921092853 0
+crawl 1 5452 20220912235921 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+Unknown 214 22197995 0 0
+png 18 39807 0 0
+css 12 4620 0 0
+html 105 1330457 0 0
+jpg 60 7177506 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+winxp 2 2
+macosx14 1 1
+androidpie 9 1
+macosx13 1 1
+macosx10 1 1
+macosx9 1 1
+macosx12 1 1
+ios_iphone 1 1
+android 12 3
+win10 303 257
+Unknown 37 26
+macosx15 2 2
+win7 9 8
+unix 2 1
+androidlollipop 1 1
+win8.1 1 1
+macosx11 4 4
+linux 21 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+chrome79.0 1 1
+chrome88.0.4240.193 4 4
+firefox59.0 1 1
+chrome51.0.2704.84 1 1
+firefox40.0 1 1
+chrome84.0.4147.105 1 1
+Unknown 3 3
+chrome80.0.3987.149 2 2
+chrome50.0.2661.102 2 2
+chrome83.0.4103.61 1 1
+chrome76.0.3809.71 8 1
+chrome79.0.3945.130 25 25
+safari13.0.3 1 1
+chrome103.0.5060.114 1 1
+firefox103.0 1 1
+chrome81.0.4044.92 8 1
+chrome64.0.3282.167 1 1
+firefox45.0 1 1
+mozilla 34 23
+chrome103.0.0.0 9 1
+chrome89.0.4389.114 2 2
+chrome90.0.4430.93 1 1
+chrome95.0.4638.54 1 1
+chrome95.0.4638.69 8 8
+chrome90.0.4430.85 2 2
+chrome45.0.2454.94 1 1
+chrome74.0.3729.169 4 4
+chrome103.0.5060.53 8 1
+netscape5.0 3 3
+chrome102.0.0.0 1 1
+msie7.0 1 1
+firefox104.0 4 4
+chrome105.0.0.0 218 180
+chrome91.0.4472.114 4 4
+firefox47.0 1 1
+chrome78.0.3904.108 15 15
+chrome75.0.3770.143 1 0
+chrome29.0.1547.57 2 1
+chrome76.0.3809.132 3 3
+chrome104.0.0.0 14 5
+chrome63.0.3239.132 1 0
+chrome83.0.4103.97 4 4
+chrome100.0.4896.88 1 1
+firefox64.0 2 2
+chrome36.0.1985.67 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+python-requests/2.27.1 20220903001249
+Mozilla/5.0_zgrab/0.x 20220921214854
+panscient.com 20220920210313
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220920021423
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220909135034
+Mozilla/5.0_(compatible;_ips-agent) 20220912213650
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+panscient.com 20220920210313
+python-requests/2.27.1 20220903001249
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 137 144
+From1 0 0
+From2 3 3
+From3 0 0
+From4 179 262
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+405 1 532
+301 9 6363
+404 38 104942
+403 631 775499
+302 1740 307821
+206 55 11913548
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/_profiler/empty/search/results 1 -
+/wp/wp-login.php 1 http://e-garkum-sasambo.com
+/wordpress/wp-login.php 1 http://e-garkum-sasambo.com
+/wp-login.php 8 -
+/users//files 1 -
+/.env 11 -
+/wp-includes/shell20211028.php 1 www.google.com
+/jspdf/jspdf.umd.min.js 1 -
+/administrator/index.php 2 -
+/ads.txt 3 -
+//wp-includes/customize/class-wp-customize-nav-menu.php 2 -
+/humans.txt 2 -
+/sitemap.xml 1 -
+/wp-content/themes/seotheme/mar.php 1 www.google.com
+/blog/wp-login.php 1 http://e-garkum-sasambo.com
+/wp-content 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 90
+103.163.21.21 115 136 20552541 20220908071420
+110.136.216.94 61 70 1071732 20220907103447
+69.160.160.55 25 32 1489093 20220912235944
+149.56.150.114 12 12 1591930 20220909135026
+110.136.218.185 5 14 752389 20220915092507
+42.83.147.34 4 4 21812 20220919091756
+182.16.165.180 3 11 739751 20220905100704
+72.13.46.5 3 3 23083 20220912213650
+72.13.62.26 3 3 23066 20220905205718
+188.225.82.128 2 2 9614 20220911023034
+167.94.138.63 2 2 10904 20220915204030
+104.248.146.13 2 2 46018 20220906080254
+20.228.217.45 2 2 10906 20220903001249
+20.21.98.248 2 2 46018 20220907093351
+138.197.173.124 2 2 46018 20220914115218
+159.223.37.158 2 2 46018 20220905013718
+159.223.39.176 2 2 10907 20220920170531
+37.139.53.10 2 2 460028 20220919122423
+167.71.204.224 2 2 46018 20220919102359
+34.87.89.107 1 1 23009 20220912084156
+20.118.188.137 1 1 23009 20220908142452
+185.220.101.34 1 1 5452 20220908130840
+165.22.56.236 1 1 23009 20220913151554
+120.41.45.199 1 1 5450 20220901204343
+149.56.150.217 1 8 701416 20220909135033
+207.102.138.93 0 2 242350 
+204.101.161.32 0 2 269959 
+193.56.65.74 1 1 5451 20220917222829
+13.215.248.154 1 1 23009 20220919084329
+181.214.173.89 1 1 23009 20220909055431
+185.181.60.12 1 1 5451 20220913031603
+54.201.228.227 1 1 5455 20220920072306
+93.158.91.196 1 1 5452 20220905114132
+199.244.88.219 1 1 5449 20220901192344
+18.205.2.52 1 1 4809 20220907134811
+13.71.1.165 1 1 23009 20220922123420
+35.129.24.198 1 1 23009 20220909182425
+65.154.226.168 1 8 726049 20220921130725
+20.169.84.159 1 1 23009 20220920214141
+176.122.23.61 1 2 5839 20220920201817
+167.248.133.60 1 5 14955 20220920021420
+149.57.16.176 1 1 5454 20220920210313
+76.72.172.171 1 1 23009 20220905125446
+139.99.131.38 1 1 23009 20220906160254
+185.39.144.147 1 1 5456 20220902174952
+167.71.220.169 1 1 23009 20220922170141
+20.169.243.12 1 1 23009 20220918164837
+13.82.145.72 1 1 23009 20220909143421
+139.99.130.220 1 1 23009 20220907064559
+88.84.193.250 1 1 4809 20220911054922
+65.21.206.45 1 1 5449 20220901224744
+1.202.249.94 1 1 5454 20220915164210
+156.146.63.157 1 1 23009 20220914005303
+54.147.144.98 1 1 5452 20220912025112
+208.100.26.248 1 1 5453 20220914174549
+78.135.106.191 1 1 4810 20220910104416
+157.230.241.229 1 1 23009 20220904225600
+35.167.221.71 1 1 5452 20220906073010
+111.90.158.159 1 1 23009 20220917200522
+144.48.38.180 1 1 23009 20220919152856
+188.153.0.191 1 1 5448 20220918095950
+89.208.107.12 1 1 4810 20220907080707
+199.244.88.230 1 1 5455 20220919214401
+20.58.112.41 1 1 23009 20220904165011
+208.100.26.249 1 1 5452 20220920042838
+34.93.103.56 1 1 23009 20220902075337
+130.255.166.115 1 1 5452 20220914160209
+91.227.68.182 1 1 0 20220921201423
+165.22.107.20 1 1 23009 20220911205154
+188.166.178.208 1 1 23009 20220918231135
+68.183.191.14 1 1 23009 20220905062042
+162.142.125.219 1 1 5453 20220904203006
+34.214.149.48 1 1 5453 20220918075748
+110.136.218.157 0 1 0 
+183.136.225.46 1 2 24056 20220917121638
+54.187.165.152 1 1 5452 20220918075724
+20.197.229.90 1 1 23009 20220901193026
+216.145.11.94 1 1 5454 20220921055136
+20.13.130.49 1 1 23009 20220922184951 20220922184951 /
+203.78.114.50 1 9 728844 20220910192538
+159.223.53.67 1 1 23009 20220914212003
+15.235.12.96 1 1 5454 20220921214854
+35.213.167.52 1 1 5449 20220901142644
+65.21.206.43 1 1 2521 20220921125753
+207.102.138.83 1 4 213743 20220918231447
+104.248.153.231 1 1 23009 20220907113103
+20.150.146.167 1 1 23009 20220913012203
+143.110.180.98 1 1 0 20220915005858
+128.199.201.241 1 1 23009 20220903213938
+159.223.66.187 1 1 5456 20220918072927
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20220901 61 61 18848332 7
+20220902 4 4 56928 4
+20220903 2 2 28461 2
+20220904 3 3 51471 3
+20220905 11 19 860305 7
+20220906 4 4 74479 4
+20220907 75 96 1925477 9
+20220908 54 63 1013281 3
+20220909 17 24 2367825 6
+20220910 2 10 733654 2
+20220911 4 4 37432 3
+20220912 30 37 1540637 4
+20220913 4 4 74478 4
+20220914 6 7 85385 6
+20220915 9 18 786304 5
+20220917 3 4 52516 3
+20220918 7 14 793879 7
+20220919 7 7 539965 6
+20220920 8 13 71071 8
+20220921 5 12 739478 5
+20220922 3 3 69027 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 1
+0s-30s 93
+1h+ 1
+30s-2mn 3
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 136
+/ 105 1330457 99 89
+/login 14 40271 1 1
+/files/not-verified 4 135015 0 2
+/villages/2/files 4 32917 0 0
+/villages/3/files 4 16566 0 0
+/villages/20/files 3 12352 0 0
+/questionaire/12 3 20913 0 2
+/villages/12/files 3 12487 0 0
+/files/empty 3 245577 0 0
+/villages/1/files 3 30184 0 0
+/files/verified 3 893353 1 0
+/files/download/377 2 1016504 0 1
+/files/download/430 2 1118272 0 0
+/files/download/481 2 470432 0 0
+/villages/32/files 2 7512 0 0
+/villages/38/files 2 8158 0 0
+/files/download/175 2 1286382 0 0
+/villages/25/files 2 7717 0 0
+/villages/52/files 2 7814 0 0
+/villages/10/files 2 8305 0 0
+/villages/24/files 2 28656 0 0
+/questionaire/3 2 13638 0 1
+/files/download/534 2 1471590 0 0
+/files/download/12 2 920152 0 0
+/files/download/626 2 317764 0 0
+/questionaire/23 1 6780 0 0
+/questionaire/48 1 6696 0 1
+/questionaire/25 1 6781 0 0
+/villages/60/files 1 4064 0 0
+/villages/59/files 1 3950 0 0
+/villages/49/files 1 3891 0 0
+/questionaire/20 1 6834 0 0
+/files/view/30/7 1 2057 0 0
+/questionaire/47 1 6797 0 0
+/villages/48/files 1 3931 0 0
+/questionaire/14 1 6855 0 0
+/villages/27/files 1 4099 0 0
+/villages/58/files 1 3975 0 0
+/villages/42/files 1 3927 0 0
+/files/download/247 1 57697 0 0
+/questionaire/35 1 6839 0 0
+/questionaire/33 1 7038 0 1
+/villages/39/files 1 4057 0 0
+/questionaire/4 1 6625 0 0
+/files/download/548 1 82697 0 0
+/questionaire/30 1 6821 0 0
+/files 1 642884 0 0
+/questionaire/36 1 6603 0 0
+/questionaire/61 1 7011 0 0
+/questionaire/32 1 6708 0 0
+/questionaire/11 1 6771 0 0
+/files/view/14/3 1 2455 0 0
+/villages/56/files 1 4069 0 0
+/files/view/59/7 1 2066 0 0
+/questionaire/42 1 6804 0 0
+/questionaire/29 1 6740 0 0
+/questionaire/27 1 6911 0 0
+/villages/46/files 1 4072 0 0
+/villages/51/files 1 3978 0 0
+/villages/41/files 1 3976 0 0
+/villages/53/files 1 3901 0 0
+/questionaire/40 1 6783 0 0
+/questionaire/46 1 6746 0 0
+/villages/43/files 1 4078 0 0
+/questionaire/28 1 6861 0 0
+/questionaire/43 1 6708 0 0
+/questionaire/37 1 7091 0 0
+/questionaire/39 1 6830 0 0
+/villages/31/files 2 7948 0 0
+/files/download/500 2 1277952 0 0
+/villages/36/files 2 8257 0 0
+/villages/17/files 2 7980 0 0
+/villages/15/files 2 8276 0 0
+/villages/14/files 2 8326 0 0
+/questionaire/2 2 13774 0 0
+/questionaire/38 1 6890 0 0
+/villages/33/files 2 8290 0 0
+/questionaire/41 1 6902 0 0
+/files/download/696 2 460984 0 0
+/files/download/690 1 193652 0 1
+/villages/23/files 2 7988 0 0
+/villages/21/files 1 4223 0 0
+/villages/7/files 1 4125 0 0
+/questionaire/1 1 6790 0 0
+/villages/26/files 2 7899 0 0
+/files/download/748 2 1583443 0 0
+/users/45/files 1 4157 0 0
+/questionaire/17 1 6908 0 0
+/questionaire/19 1 6941 0 0
+/villages/61/files 2 8114 0 0
+/files/download/258 2 888026 0 0
+/villages/18/files 2 8190 0 0
+/questionaire/44 2 13526 0 0
+/questionaire/18 1 6795 0 0
+/villages/4/files 2 8269 0 0
+/villages/19/files 1 4200 0 0
+/villages/5/files 1 20814 0 0
+/villages/28/files 1 3970 0 0
+/villages/44/files 1 4094 0 0
+/villages/55/files 1 3903 0 0
+/villages/57/files 1 3889 0 0
+/villages/47/files 1 3925 0 0
+/villages/30/files 1 3963 0 0
+/villages/45/files 1 3950 0 0
+/villages/54/files 1 3903 0 0
+/files/download/627 1 140621 0 0
+/files/view/12/7 1 2884 0 0
+/files/download/484 2 2108344 0 0
+/villages/29/files 1 4101 0 0
+/questionaire/34 1 6894 0 0
+/villages/files-status 2 38536 0 0
+/questionaire/21 1 6911 0 0
+/questionaire/8 1 7059 0 0
+/files/download/617 2 3956030 0 0
+/questionaire/10 1 6779 0 0
+/villages/13/files 2 8256 0 0
+/files/download/383 2 337336 0 0
+/villages/9/files 2 7930 0 0
+/questionaire/16 2 13686 0 1
+/questionaire/15 1 6786 0 0
+/villages/50/files 1 3960 0 0
+/villages/34/files 2 8267 0 0
+/questionaire/13 2 12920 0 0
+/villages/35/files 1 4199 0 0
+/villages/40/files 1 4096 0 0
+/files/download/246 1 64463 0 0
+/questionaire/60 1 6753 0 0
+/villages/37/files 1 4208 0 0
+/questionaire/24 1 6959 0 0
+/villages/16/files 2 8278 0 0
+/questionaire/31 1 6943 0 0
+/villages/8/files 2 8408 0 0
+/villages/62/files 2 7792 0 0
+/villages/11/files 2 8071 0 0
+/files/download/388 1 150757 0 0
+/files/download/347 2 1483544 0 0
+END_SIDER
